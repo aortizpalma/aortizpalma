@@ -36,4 +36,26 @@
 
 ## My tech stack
 
-![JavaScript](/images_small/js.png "JavaScript")
+<!-- ![JavaScript](/images_small/js.png "JavaScript") -->
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/js.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/html5.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/css3.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/react.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/nodejs.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mysql.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mongodb.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/git.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/github.png" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/vscode.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/cl.svg" style="padding-right:10px;" />
