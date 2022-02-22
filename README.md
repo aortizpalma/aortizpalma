@@ -38,31 +38,43 @@ H   H    EEEEE   LLLLL   LLLLL    OOOOO          W   W      OOOOO      R   R   L
 
 ## `Connect with me`
 
-- [LinkedIn](https://www.linkedin.com/in/ortizpalma/)
-- [Twitter](https://twitter.com/aortizpalma)
+<!-- - [LinkedIn](https://www.linkedin.com/in/ortizpalma/) -->
+<!-- - [Twitter](https://twitter.com/aortizpalma) -->
+
+<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/linkedin.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/twitter.svg" style="padding-right:10px;" />
 
 ## `My tech stack`
 
 <!-- ![JavaScript](/images_small/js.png "JavaScript") -->
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/js.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/js.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/html5.svg" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/css3.svg" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/react.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/nodejs.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/nodejs.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/php.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mongodb.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mysql.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/git.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/mongodb.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/github.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/git.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/vscode.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/github.png" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/cl.svg" style="padding-right:10px;" />
+<img align="left" alt="VS Code" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/vscode.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Command Line" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/cl.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/docker.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Figma" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/figma.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Drupal" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/99b306e38b655eeb11c71689e23864b49229df41/images/drupal.svg" style="padding-right:10px;" />
