@@ -38,10 +38,10 @@ H   H    EEEEE   LLLLL   LLLLL    OOOOO          W   W      OOOOO      R   R   L
 
 ## `Connect with me`
 
-|                                                       |                                                                                                                                                                                                           |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - [LinkedIn](https://www.linkedin.com/in/ortizpalma/) | <img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/41803f65e1fb6e332b1ad119fa1deea411c6f76e/images/linkedin.svg" style="padding-right:10px;" /> |
-| - [Twitter](https://twitter.com/aortizpalma)          | <img align="left" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/099258c47baf51922d66996f52595cdd2a5ff720/images/twitter.svg" style="padding-right:10px;" />   |
+|                                                       |                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [LinkedIn](https://www.linkedin.com/in/ortizpalma/) | [<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/41803f65e1fb6e332b1ad119fa1deea411c6f76e/images/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ortizpalma/) |
+| - [Twitter](https://twitter.com/aortizpalma)          | [<img align="left" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/aortizpalma/aortizpalma/099258c47baf51922d66996f52595cdd2a5ff720/images/twitter.svg" style="padding-right:10px;" />](https://twitter.com/aortizpalma)           |
 
 ## `My tech stack`
 
