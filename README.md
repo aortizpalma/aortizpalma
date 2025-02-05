@@ -19,23 +19,23 @@ H   H    EEEEE   LLLLL   LLLLL    OOOOO          W   W      OOOOO      R   R   L
 
 ## `About me`
 
-- 💻👨🏽‍💻 I'm currently on my path to becoming a _professional_ software and game developer
-
-  - I studied the **full-stack developer training program** at [Helsinki Business College](https://en.bc.fi/)
-  - I'm doing a **Full-Stack Developer Internship** at the digital consultancy company [Multiplica](https://www.multiplica.com):
+- 💻👨🏽‍💻 I'm a full-stack software
+  - I provide A.I., Automation, I.T., Digital Marketing and Business services and consultancy
+  - I studied **full-stack web development** at [Helsinki Business College](https://en.bc.fi/)
+  - I did a **Full-Stack Developer Internship** at the digital consultancy company [Multiplica](https://www.multiplica.com):
     - Working with React Native on the [Spin](https://www.spinbyoxxo.com.mx/) mobile app on [Android](https://play.google.com/store/apps/details?id=com.pagopopmobile&hl=en&gl=US) and [iOS](https://apps.apple.com/mx/app/spin-by-oxxo/id1511764877)
     - Working with ReactJS on new solutions for [FEMSA's](https://www.femsa.com/es/) partner shops
-  - Currently completing the **full-stack engineer** career path at [CodeAcademy](www.codeacademy.com)
   - I have project experience with the following technologies:
-    - HTML, CSS, Javascript, TypeScript, React, ReactNative, Redux, Zustang, Node.js, PHP, SQL, MongoDB, Drupal, Lando, Docker, AWS
+    - HTML, CSS, Javascript, TypeScript, Python, C#, React, ReactNative, Redux, Zustang, Node.js, PHP, SQL, MongoDB, Drupal, Lando, Docker, AWS
   - Currently learning:
-    - React Native, Three.js, C#, Python
+    - RAG Systems, Agentic AI
     - Game Development at [CoderHouse](https://www.coderhouse.com.mx/online/desarrollo-videojuegos-online)
     - The following Unity learning pathways:
       - [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
       - [Junior Programmer](https://learn.unity.com/pathway/junior-programmer)
 
-- 🕹🎮👾 I work in the gaming industry at [Unity Technologies](www.unity3d.com)
+
+- 🕹🎮👾 I've worked in the gaming industry at [Unity Technologies](www.unity3d.com)
 - 👨‍🎓 MSc in International Business from [Aalto University](https://www.aalto.fi/en)
 - 👨‍🎓 MSc in Internaional Management from the [CEMS program](https://cems.org/cems-mim)
 - I speak: 🇬🇧, 🇪🇸, 🇫🇷, 🇫🇮.
